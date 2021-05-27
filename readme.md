@@ -11,8 +11,6 @@
 
 - 👨‍💻 All of my projects are available at [http://uthsob.me](http://uthsob.me)
 
-- 📝 I regularly write articles on [http://uthsob.me/blog](http://uthsob.me/blog)
-
 - 💬 Ask me about **C++**
 
 - 📫 How to reach me **uthsob9@gmail.com**
